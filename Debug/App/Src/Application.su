@@ -1,0 +1,7 @@
+../App/Src/Application.c:87:6:InteractionNewResultAvailableCallback	24	static
+../App/Src/Application.c:100:6:WheelRobotCommandEndCallback	16	static
+../App/Src/Application.c:106:6:ApplicationInit	16	static
+../App/Src/Application.c:128:6:ApplicationMainLoop	32	static
+../App/Src/Application.c:267:6:ApplicationTimer1KHZISR	4	static
+../App/Src/Application.c:275:6:ApplicationDebugRXString	16	static
+../App/Src/Application.c:280:6:ApplicationDebugRXChar	16	static

@@ -1,0 +1,8 @@
+../App/Src/Audio.c:77:9:AudioPlayPartiture	16	static
+../App/Src/Audio.c:106:6:AudioInit	8	static
+../App/Src/Audio.c:126:6:AudioMainLoop	8	static
+../App/Src/Audio.c:157:6:AudioTimer1KHZISR	8	static
+../App/Src/Audio.c:242:13:AudioOff	4	static
+../App/Src/Audio.c:261:13:AudioOn	4	static
+../App/Src/Audio.c:369:13:LoadPartiture	24	static
+../App/Src/Audio.c:393:13:PlayPartitureTimer1KHZISR	8	static

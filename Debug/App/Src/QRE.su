@@ -1,0 +1,12 @@
+../App/Src/QRE.c:86:29:QREResultCallback	8	static
+../App/Src/QRE.c:130:6:QREStartOffsetCalibration	16	static
+../App/Src/QRE.c:160:6:QREEndOffsetCalibration	16	static
+../App/Src/QRE.c:194:6:QREInit	4	static
+../App/Src/QRE.c:203:6:QREMainLoop	168	static
+../App/Src/QRE.c:241:6:QRETimer1KHZISR	8	static
+../App/Src/QRE.c:251:6:QREADC2DMACallback	8	static
+../App/Src/QRE.c:391:13:CalledFromTimer1KHZISR	8	static
+../App/Src/QRE.c:467:13:CalledFromADCDMAISR	16	static
+../App/Src/QRE.c:494:13:CalledFromMainLoop	16	static
+../App/Src/QRE.c:550:13:OffsetCalibrationMainLoop	16	static
+../App/Src/QRE.c:588:13:OffsetCalibrationTimer1KHZISR	8	static

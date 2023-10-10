@@ -1,0 +1,9 @@
+../App/Src/VL53l0x.c:67:29:VL53l0xReslutCallback	16	static
+../App/Src/VL53l0x.c:90:10:VL53l0xGetResult	4	static
+../App/Src/VL53l0x.c:103:6:VL53l0xInit	8	static
+../App/Src/VL53l0x.c:111:6:VL53l0xMainLoop	16	static
+../App/Src/VL53l0x.c:162:6:VL53l0xTimer1KHZISR	4	static
+../App/Src/VL53l0x.c:169:6:VL53l0xRXComplete	8	static
+../App/Src/VL53l0x.c:198:13:RXConcatenate	8	static
+../App/Src/VL53l0x.c:227:13:RXDecodeData	16	static
+../App/Src/VL53l0x.c:264:13:RXReset	16	static
